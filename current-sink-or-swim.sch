@@ -277,7 +277,7 @@ P 5700 2100
 F 0 "U?" H 5850 1704 50  0000 C CNN
 F 1 "TC1016" H 5700 2400 50  0000 C CNN
 F 2 "" H 5700 1900 50  0001 C CNN
-F 3 "" H 5700 1900 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21666b.pdf" H 5700 1900 50  0001 C CNN
 	1    5700 2100
 	-1   0    0    -1  
 $EndComp
