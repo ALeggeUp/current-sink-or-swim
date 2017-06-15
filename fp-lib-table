@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "CSOS Heatsinks")(type KiCad)(uri "$(KIPRJMOD)/resources/modules/Heatsinks.pretty")(options "")(descr ""))
+  (lib (name "CSOS Connectors")(type KiCad)(uri "$(KIPRJMOD)/resources/modules/Connectors.pretty")(options "")(descr ""))
+  (lib (name "CSOS Passives")(type KiCad)(uri "$(KIPRJMOD)/resources/modules/Passives.pretty")(options "")(descr "Passives footprintes for CSOS"))
+  (lib (name "CSOS Aesthetics")(type KiCad)(uri "$(KIPRJMOD)/resources/modules/Aesthetics.pretty")(options "")(descr ""))
+)
