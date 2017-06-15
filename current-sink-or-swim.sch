@@ -76,7 +76,9 @@ P 1750 1650
 F 0 "R1" V 1830 1650 50  0000 C CNN
 F 1 "68K" V 1750 1650 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1680 1650 50  0001 C CNN
-F 3 "" H 1750 1650 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 1750 1650 50  0001 C CNN
+F 4 "RC0805JR-0768KL" V 1750 1650 60  0001 C CNN "MPN"
+F 5 "311-68KARCT-ND" V 1750 1650 60  0001 C CNN "DKPN"
 	1    1750 1650
 	1    0    0    -1  
 $EndComp
@@ -181,7 +183,9 @@ P 8550 5350
 F 0 "R7" V 8630 5350 50  0000 C CNN
 F 1 "0" V 8550 5350 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8480 5350 50  0001 C CNN
-F 3 "" H 8550 5350 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 8550 5350 50  0001 C CNN
+F 4 "RC0805JR-070RL" V 8550 5350 60  0001 C CNN "MPN"
+F 5 "311-0.0ARCT-ND" V 8550 5350 60  0001 C CNN "DKPN"
 	1    8550 5350
 	1    0    0    -1  
 $EndComp
@@ -205,7 +209,9 @@ P 8950 5050
 F 0 "R8" V 9030 5050 50  0000 C CNN
 F 1 "27K" V 8950 5050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8880 5050 50  0001 C CNN
-F 3 "" H 8950 5050 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 8950 5050 50  0001 C CNN
+F 4 "RC0805FR-0727KL" V 8950 5050 60  0001 C CNN "MPN"
+F 5 "311-27.0KCRCT-ND" V 8950 5050 60  0001 C CNN "DKPN"
 	1    8950 5050
 	1    0    0    -1  
 $EndComp
@@ -216,7 +222,9 @@ P 8950 5550
 F 0 "R9" V 9030 5550 50  0000 C CNN
 F 1 "21.6K" V 8950 5550 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 8880 5550 50  0001 C CNN
-F 3 "" H 8950 5550 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 8950 5550 50  0001 C CNN
+F 4 "RC0805FR-0721K5L" V 8950 5550 60  0001 C CNN "MPN"
+F 5 "311-21.5KCRCT-ND" V 8950 5550 60  0001 C CNN "DKPN"
 	1    8950 5550
 	1    0    0    -1  
 $EndComp
@@ -286,7 +294,9 @@ P 3700 2300
 F 0 "R3" V 3780 2300 50  0000 C CNN
 F 1 "1K" V 3700 2300 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3630 2300 50  0001 C CNN
-F 3 "" H 3700 2300 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 3700 2300 50  0001 C CNN
+F 4 "RC0805JR-071KL" V 3700 2300 60  0001 C CNN "MPN"
+F 5 "311-1.0KARCT-ND" V 3700 2300 60  0001 C CNN "DKPN"
 	1    3700 2300
 	0    1    1    0   
 $EndComp
@@ -297,7 +307,9 @@ P 2050 4850
 F 0 "R4" V 2130 4850 50  0000 C CNN
 F 1 "28.7K" V 2050 4850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1980 4850 50  0001 C CNN
-F 3 "" H 2050 4850 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 2050 4850 50  0001 C CNN
+F 4 "RC0805FR-0728K7L" V 2050 4850 60  0001 C CNN "MPN"
+F 5 "311-28.7KCRCT-ND" V 2050 4850 60  0001 C CNN "DKPN"
 	1    2050 4850
 	1    0    0    -1  
 $EndComp
@@ -341,7 +353,9 @@ P 4200 6700
 F 0 "R6" V 4280 6700 50  0000 C CNN
 F 1 "1K" V 4200 6700 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4130 6700 50  0001 C CNN
-F 3 "" H 4200 6700 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 4200 6700 50  0001 C CNN
+F 4 "RC0805JR-071KL" V 4200 6700 60  0001 C CNN "MPN"
+F 5 "311-1.0KARCT-ND" V 4200 6700 60  0001 C CNN "DKPN"
 	1    4200 6700
 	1    0    0    -1  
 $EndComp
@@ -352,7 +366,9 @@ P 4200 6200
 F 0 "R5" V 4280 6200 50  0000 C CNN
 F 1 "9K" V 4200 6200 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 4130 6200 50  0001 C CNN
-F 3 "" H 4200 6200 50  0001 C CNN
+F 3 "http://www.yageo.com.tw/exep/pages/download/literatures/PYu-R_INT-thick_7.pdf" H 4200 6200 50  0001 C CNN
+F 4 "RC0805FR-079K09L" V 4200 6200 60  0001 C CNN "MPN"
+F 5 "311-9.09KCRCT-ND" V 4200 6200 60  0001 C CNN "DKPN"
 	1    4200 6200
 	1    0    0    -1  
 $EndComp
@@ -568,20 +584,6 @@ Wire Wire Line
 	3100 5650 2650 5650
 Wire Wire Line
 	2650 5650 2650 6450
-$Comp
-L CONN_01X01 HEATSINK1
-U 1 1 59210F48
-P 6050 3850
-F 0 "HEATSINK1" H 6050 3950 50  0000 C CNN
-F 1 "HEATSINK" V 6150 3850 50  0000 C CNN
-F 2 "Heatsinks:FA-T220-25E_42x25mm_2xDrill2.5mm" H 6050 3850 50  0001 C CNN
-F 3 "http://www.ohmite.com/cat/sink_f_r.pdf" H 6050 3850 50  0001 C CNN
-F 4 "FA-T220-25E" H 6050 3850 60  0001 C CNN "MPN"
-F 5 "FA-T220-25E-ND" H 6050 3850 60  0001 C CNN "DKPN"
-	1    6050 3850
-	1    0    0    -1  
-$EndComp
-NoConn ~ 5850 3850
 Wire Wire Line
 	1750 1500 1750 1350
 Wire Wire Line
